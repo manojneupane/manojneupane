@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojneupane
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
